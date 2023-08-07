@@ -1,0 +1,3 @@
+node_modules/
+mongoose-checkpoint/node_modules/
+mongoose-checkpoint/.env
